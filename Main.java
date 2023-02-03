@@ -4,7 +4,7 @@
 // program lets the customer try out different
 //combinations of engine and cars and then computes the total
 // value and weight of each combination.
-package Program$5;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
