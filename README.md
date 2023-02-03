@@ -1,5 +1,5 @@
 # Car-Engine-System-Evaluation
-#==============================
+
 This program helps a small feeder line decide which
 cars to include in each trip. In addition, the
 program lets the customer try out different
